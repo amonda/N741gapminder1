@@ -7,6 +7,9 @@ output:
   pdf_document: default
   html_document: default
 ---
+Below is a link to my Github repository with my RMD file. 
+[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1) which was typed in to the Rmarkdown file as `[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1)`.
+
 
 ## **Homework 01 SETUP**
 
@@ -177,7 +180,4 @@ plot(lifeExp ~ gdpPercap, gap_with_colors,
 * Make sure your report completes the 4 tasks above with your associated R chunks along with a description or commentary on what you did and the result.
 * Submit the PDF homework using Canvas for N741.
 * Include in your report a link to your Github repository with your RMD file and any other associated output you created. In the body of your Rmarkdown (RMD) report use the `[]()` syntax to embed the URL "web link". For example, the link for this exercise is located at [https://github.com/melindahiggins2000/N741gapminder1](https://github.com/melindahiggins2000/N741gapminder1) which was typed in to the Rmarkdown file as `[https://github.com/melindahiggins2000/N741gapminder1](https://github.com/melindahiggins2000/N741gapminder1)`.
-
-Below is a link to my Github repository with my RMD file. 
-[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1) which was typed in to the Rmarkdown file as `[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1)`.
 
