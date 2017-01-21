@@ -78,6 +78,8 @@ Modify the sentence above to also provide the standard deviation, median and sam
 
 Hint: Read help pages for the functions `sd()`, `median()`, and `length()`.
 
+### **Homework 01 Exercise - Answer 1
+
 The mean life expectancy is `r round(mean(gapminder$lifeExp), digits=2)` years, the standard deviation is `r round(sd(gapminder$lifeExp), digits=2)`, and the median life expectancy is `r round(median(gapminder$lifeExp), digits=2)`. The sample size for this data is `r round(length(gapminder$lifeExp), digits=2)`.
 
 
