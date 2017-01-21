@@ -190,4 +190,4 @@ plot(lifeExp ~ gdpPercap, gap_with_colors,
 ### **Homework 01 Exercise - Answer 5
 
 Below is a link to my Github repository with my RMD file. 
-[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1) which was typed in to the Rmarkdown file as `[https://github.com/amonda/N741gapminder1](https://github.com/amonda/N741gapminder1)`.
+[https://github.com/amonda/N741gapminderHW1](https://github.com/amonda/N741gapminderHW1) which was typed in to the Rmarkdown file as `[https://github.com/amonda/N741gapminderHW1](https://github.com/amonda/N741gapminderHW1)`.
